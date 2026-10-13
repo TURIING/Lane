@@ -1,0 +1,34 @@
+# Build output
+build/
+Build/
+out/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CMakeUserPresets.json
+compile_commands.json
+
+# Compiled objects / libraries / binaries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.pdb
+*.ilk
+
+# IDE / editor
+.vscode/
+.idea/
+.cache/
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+.clangd/
+
+# macOS
+.DS_Store

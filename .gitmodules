@@ -1,0 +1,6 @@
+[submodule ".dsh"]
+	path = .dsh
+	url = ../harness-dotfiles.git
+[submodule "3rd/Utils"]
+	path = 3rd/Utils
+	url = ../Utils.git
